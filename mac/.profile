@@ -17,4 +17,3 @@ export NVM_DIR="$HOME/.nvm"
 eval "$(uv generate-shell-completion bash)"
 eval "$(uvx --generate-shell-completion bash)"
 . "$HOME/.cargo/env"
-
